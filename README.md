@@ -1,1 +1,5 @@
-# mercedes-promo
+# Mercedes промо страница — Учебный проект Glo Academy
+## Выполнила: Ксения Филиппова
+
+### Технологии:
+- JavaScript
